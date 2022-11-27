@@ -21,6 +21,7 @@ Atualmente trabalho como Assistente de TI, e estou cursando Análise e Desenvolv
 <br>
 <br>
 <br>
-<i> <center> Tudo posso naquele que me fortalece.
+<h1 align="center"> <i>Tudo posso naquele que me fortalece.
 <br>
 - Filipenses 4:13 </center>
+</h1>
